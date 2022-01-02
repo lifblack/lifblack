@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/mile-stone-one/css/style.css">
+
+
 1 - Цвет головы               <br>
 2 - Волосы на голове          <br>
 3 - Волосы на лице            <br>
@@ -8,11 +11,33 @@
 8 - Левая нога                <br>
 9 - Правая нога               <br>
 10 - Обе ноги                 <br>
-                              <br> <div style="position: relative; top: -235px; left: 300px;"> <img src="https://psv4.userapi.com/c237231/u244767555/docs/d36/89b62a6712de/Sprite-0040.gif?extra=WC9qWJWQhAmz-Z3X0amVJ1quUGMPT5tDnY1APX-wxhe-4CXxHcCZ508DYIYVYBo1fFNeYCAcYH_6aRmY68RFg_n9GghjFLSzhTNxf23adMaGwCl539BWuqf-1E7fVVcKcYVzbNV8d-OoTwrbCkwvSsw"> </div>
-<img src="https://sun9-42.userapi.com/impg/pkbBy42MeGniMoJJfuV28KauPGv_q7CY9j3-Vw/u5-y1GretJs.jpg?size=1376x373&quality=96&sign=351e22df0828d08142f1a683f2b04c8b&type=album">
+                              <br> ![](https://psv4.userapi.com/c237231/u244767555/docs/d36/89b62a6712de/Sprite-0040.gif?extra=WC9qWJWQhAmz-Z3X0amVJ1quUGMPT5tDnY1APX-wxhe-4CXxHcCZ508DYIYVYBo1fFNeYCAcYH_6aRmY68RFg_n9GghjFLSzhTNxf23adMaGwCl539BWuqf-1E7fVVcKcYVzbNV8d-OoTwrbCkwvSsw)
                               <br>
+                              
+                              
+<div id="container">
+    <img />
+    This is an image
+</div>
 
 
 
 
+Hello there !
 
+<div id="container">
+    <img />
+    This is an image
+</div>
+
+Hi !
+
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
