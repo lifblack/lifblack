@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="stylesheet.css">
+<link rel="stylesheet" href="lifblack/stylesheet.css">
 
 
 1 - Цвет головы               <br>
