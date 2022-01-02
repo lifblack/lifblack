@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/mile-stone-one/css/style.css">
+<link rel="stylesheet" href="stylesheet.css">
 
 
 1 - Цвет головы               <br>
